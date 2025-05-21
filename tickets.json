@@ -1,0 +1,308 @@
+[
+  {
+    "id": "237633000000351376",
+    "subject": "URGENTE - Problema de conexão da VPN",
+    "status": "Closed",
+    "created_time": "1745875409218",
+    "technician": "Heather Graham",
+    "group": "Internet",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351384",
+    "subject": "Precisando de suporte - Problema de conexão da VPN",
+    "status": "Closed",
+    "created_time": "1745875409374",
+    "technician": "Shawn Adams",
+    "group": "Internet",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351392",
+    "subject": "Solicitação de assistência - Problema de conexão da VPN",
+    "status": "Closed",
+    "created_time": "1745961809450",
+    "technician": "",
+    "group": "Internet",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351400",
+    "subject": "Problemas na conexão com a VPN",
+    "status": "Canceled",
+    "created_time": "1745961809537",
+    "technician": "John Roberts",
+    "group": "Internet",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351408",
+    "subject": "Atenção imediata necessária - Problema de conexão da VPN",
+    "status": "Resolved",
+    "created_time": "1746134609623",
+    "technician": "John Roberts",
+    "group": "Internet",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351416",
+    "subject": "Problema crítico - Falha no sistema CRM",
+    "status": "Closed",
+    "created_time": "1746307409692",
+    "technician": "John Roberts",
+    "group": "Software",
+    "template": "Falhas frequentes no aplicativo"
+  },
+  {
+    "id": "237633000000351424",
+    "subject": "Falha no CRM - Impactando as operações comerciais",
+    "status": "Open",
+    "created_time": "1746307409776",
+    "technician": "John Roberts",
+    "group": "Software",
+    "template": "Falhas frequentes no aplicativo"
+  },
+  {
+    "id": "237633000000351436",
+    "subject": "Falha no CRM - Incapaz de acessar dados",
+    "status": "Closed",
+    "created_time": "1746307409859",
+    "technician": "Shawn Adams",
+    "group": "Software",
+    "template": "Falhas frequentes no aplicativo"
+  },
+  {
+    "id": "237633000000351444",
+    "subject": "Não é possível adicionar novos usuários ao CRM",
+    "status": "Closed",
+    "created_time": "1746307409929",
+    "technician": "Howard Stern",
+    "group": "Software",
+    "template": "Falhas frequentes no aplicativo"
+  },
+  {
+    "id": "237633000000351452",
+    "subject": "CRM não responde - Atenção imediata necessária",
+    "status": "On Hold",
+    "created_time": "1746393810005",
+    "technician": "",
+    "group": "Software",
+    "template": "Falhas frequentes no aplicativo"
+  },
+  {
+    "id": "237633000000351464",
+    "subject": "Solicitação de upgrade de aplicativo - Apache Flink",
+    "status": "On Hold",
+    "created_time": "1746566610106",
+    "technician": "",
+    "group": "Desenvolvimento de aplicativos",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351476",
+    "subject": "Faça upgrade para a nova versão do Apache Flink",
+    "status": "Open",
+    "created_time": "1746653010212",
+    "technician": "Shawn Adams",
+    "group": "Desenvolvimento de aplicativos",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351484",
+    "subject": "Faça upgrade do Apache Flink para corrigir vulnerabilidades",
+    "status": "Open",
+    "created_time": "1746653010311",
+    "technician": "Jeniffer Doe",
+    "group": "Desenvolvimento de aplicativos",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351492",
+    "subject": "Upgrade do aplicativo necessário",
+    "status": "Open",
+    "created_time": "1746739410394",
+    "technician": "",
+    "group": "Desenvolvimento de aplicativos",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351500",
+    "subject": "Solicitação urgente de upgrade do Apache Flink - Vulnerabilidades críticas de segurança encontradas",
+    "status": "Open",
+    "created_time": "1746739410469",
+    "technician": "",
+    "group": "Desenvolvimento de aplicativos",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351508",
+    "subject": "Atualização de segurança do servidor AIX necessária",
+    "status": "Closed",
+    "created_time": "1746912210540",
+    "technician": "Shawn Adams",
+    "group": "Infra-SSO",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351516",
+    "subject": "Vulnerabilidade do servidor AIX",
+    "status": "Open",
+    "created_time": "1747085010608",
+    "technician": "Shawn Adams",
+    "group": "Infra-SSO",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351528",
+    "subject": "Aplicar patch ao servidor seguro do AIX",
+    "status": "Closed",
+    "created_time": "1747171410686",
+    "technician": "Jeniffer Doe",
+    "group": "Infra-SSO",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351536",
+    "subject": "Instalar patch no servidor AIX para segurança aprimorada",
+    "status": "Open",
+    "created_time": "1747257810778",
+    "technician": "Jeniffer Doe",
+    "group": "Infra-SSO",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351544",
+    "subject": "Patch necessário para proteção do servidor AIX",
+    "status": "Open",
+    "created_time": "1747344210851",
+    "technician": "Jeniffer Doe",
+    "group": "Infra-SSO",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351552",
+    "subject": "Transição para SD-WAN para redes ágeis",
+    "status": "Open",
+    "created_time": "1747430610923",
+    "technician": "John Roberts",
+    "group": "Internet",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351560",
+    "subject": "Migração do ERP VM em Hyper-V para ambiente OVHcloud Nutanix",
+    "status": "Open",
+    "created_time": "1747430610999",
+    "technician": "John Roberts",
+    "group": "Internet",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351568",
+    "subject": "Não é possível categorizar o ativo na ferramenta de rastreamento de locações",
+    "status": "Open",
+    "created_time": "1746221011074",
+    "technician": "Bella Marcar",
+    "group": "Software",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351576",
+    "subject": "Problema ao enviar lembretes para renovação de aluguel de ativos e períodos de aviso prévio.",
+    "status": "Open",
+    "created_time": "1746221011158",
+    "technician": "Bella Marcar",
+    "group": "Software",
+    "template": "Default Request"
+  },
+  {
+    "id": "237633000000351584",
+    "subject": "Software de CRM com falha após adicionar um registro",
+    "status": "Em andamento",
+    "created_time": "1747344211226",
+    "technician": "",
+    "group": "Software",
+    "template": "Falhas frequentes no aplicativo"
+  },
+  {
+    "id": "237633000000351632",
+    "subject": "Desfazer alterações",
+    "status": "Open",
+    "created_time": "1747516711605",
+    "technician": "",
+    "group": "Gerenciamento de dados",
+    "template": "Gerar uma nova solicitação de recurso"
+  },
+  {
+    "id": "237633000000351640",
+    "subject": "Restaurar a máquina especificada usando dados de backup anteriores",
+    "status": "Open",
+    "created_time": "1747516711700",
+    "technician": "Gustavo Gracio Sbrana Martins",
+    "group": "Gerenciamento de dados",
+    "template": "Gerar uma nova solicitação de recurso"
+  },
+  {
+    "id": "237633000000351678",
+    "subject": "Integração do funcionário Will Samuel",
+    "status": "Open",
+    "created_time": "1747344211934",
+    "technician": "Gustavo Gracio Sbrana Martins",
+    "group": "Integração",
+    "template": "Preliminar de integração de funcionários"
+  },
+  {
+    "id": "237633000000351686",
+    "subject": "Integração do funcionário Will Samuel",
+    "status": "Open",
+    "created_time": "1747517012030",
+    "technician": "",
+    "group": "Integração",
+    "template": "Integração de novo funcionário"
+  },
+  {
+    "id": "237633000000351756",
+    "subject": "Verificação de antecedentes do funcionário Will Samuel",
+    "status": "Open",
+    "created_time": "1747517012726",
+    "technician": "",
+    "group": "Integração",
+    "template": "Verificação de antecedentes do funcionário"
+  },
+  {
+    "id": "237633000000351808",
+    "subject": "Transporte para o funcionário Will Samuel",
+    "status": "Open",
+    "created_time": "1747517013154",
+    "technician": "",
+    "group": "Integração",
+    "template": "Atribuição de cabine"
+  },
+  {
+    "id": "237633000000351824",
+    "subject": "Não é possível enviar e-mails de suporte técnico",
+    "status": "Estagiando",
+    "created_time": "1747344213282",
+    "technician": "Gustavo Gracio Sbrana Martins",
+    "group": "Equipe de incidentes significativos",
+    "template": "Gerenciamento de incidente significativo"
+  },
+  {
+    "id": "237633000000351872",
+    "subject": "RCA para solicitação do MIM",
+    "status": "Open",
+    "created_time": "1747430613625",
+    "technician": "Gustavo Gracio Sbrana Martins",
+    "group": "Desenvolvimento",
+    "template": "MIM - RCA"
+  },
+  {
+    "id": "237633000000351896",
+    "subject": "Atualização de patch de firewall lançada esta semana. Certifique-se de que a atualização seja aplicada aos servidores",
+    "status": "Closed",
+    "created_time": "1747430613737",
+    "technician": "Heather Graham",
+    "group": "Software",
+    "template": "Manutenção"
+  }
+]
