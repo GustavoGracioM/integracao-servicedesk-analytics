@@ -31,12 +31,11 @@ def list_tickets(access_token, limite=10):
     url = f"{BASE_URL}/api/{API_VERSION}/requests"
     headers = {
         "Authorization": f"Zoho-oauthtoken {access_token}",
-        "Content-Type": "application/x-www-form-urlencoded",
         "Accept": "application/vnd.manageengine.v3+json",
     }
 
-    seven_days_ago = datetime.now() - timedelta(days=30)
-    timestamp_ms = int(seven_days_ago.timestamp() * 1000)
+    thirty_days_ago = datetime.now() - timedelta(days=30)
+    timestamp_ms = int(thirty_days_ago.timestamp() * 1000)
 
     filter = {
         "list_info": {
@@ -51,7 +50,7 @@ def list_tickets(access_token, limite=10):
 
     params = {"input_data": json.dumps(filter)}
 
-    response = requests.get(url, headers=headers, params=params, verify=False)
+    response = requests.get(url, headers=headers, params=params)
     response.raise_for_status()
     return response.json().get("requests", [])
 
